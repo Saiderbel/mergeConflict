@@ -1,5 +1,5 @@
 common line 1
 common line 2
-line changed in branch1
+line changed by branch1 (after resolving the conflict)
 common line 3
 commin line 4
