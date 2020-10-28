@@ -1,5 +1,5 @@
 common line 1
 common line 2
-line to change
+line changed in branch2
 common line 3
 commin line 4
